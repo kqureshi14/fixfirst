@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611643112915",
+    "project_id": "fixfirst",
+    "storage_bucket": "fixfirst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611643112915:android:6726342a4b8ce3b6198326",
+        "android_client_info": {
+          "package_name": "com.meetmeat.fixfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611643112915-ens6ifnd4ce841idf2oiq7tt07uollpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-2qSqc4kxpSjY2xwa2780gf5rhCyIcso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611643112915-ens6ifnd4ce841idf2oiq7tt07uollpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
